@@ -1,3 +1,9 @@
+# Just a template for React and a setup with tailwind.
+
+npm install and happy coding
+
+----
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
